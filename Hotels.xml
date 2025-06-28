@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Hotels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:noNamespaceSchemaLocation="https://Gabenn1.github.io/cse445_a4/Hotels.xsd">
+
+
+        <Hotel Rating="4.2">
+            <Name>Westin</Name>
+            <Phone>480-968-8885</Phone>
+            <Phone>800-937-8461</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>11</Number>
+                <Street>E. 7th St</Street>
+                <City>Tempe</City>
+                <State>AZ</State>
+                <Zip>85281</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.1">
+            <Name>Sonesta Select</Name>
+            <Phone>480-966-2800</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>601</Number>
+                <Street>S. Ash Ave</Street>
+                <City>Tempe</City>
+                <State>AZ</State>
+                <Zip>85281</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="3.9">
+            <Name>DoubleTree Suites</Name>
+            <Phone>602-225-0500</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>320</Number>
+                <Street>N. 44th St</Street>
+                <City>Phoenix</City>
+                <State>AZ</State>
+                <Zip>85008</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.2">
+            <Name>Holiday Inn Express and Suites</Name>
+            <Phone>602-453-9900</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>3401</Number>
+                <Street>E. University Dr</Street>
+                <City>Phoenix</City>
+                <State>AZ</State>
+                <Zip>85034</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.6">
+            <Name>Drury Inn and Suites</Name>
+            <Phone>602-437-8400</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>3333</Number>
+                <Street>E. University Dr</Street>
+                <City>Phoenix</City>
+                <State>AZ</State>
+                <Zip>85034</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="3.6">
+            <Name>Motel 6</Name>
+            <Phone>480-967-8696</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>513</Number>
+                <Street>W. Broadway Rd</Street>
+                <City>Tempe</City>
+                <State>AZ</State>
+                <Zip>85282</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="3.4">
+            <Name>SureStay</Name>
+            <Phone>602-273-1601</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>3037</Number>
+                <Street>E. Van Buren St</Street>
+                <City>Phoenix</City>
+                <State>AZ</State>
+                <Zip>85008</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.0">
+            <Name>The Clarendon</Name>
+            <Phone>602-252-7363</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>401</Number>
+                <Street>W. Clarendon Ave</Street>
+                <City>Phoenix</City>
+                <State>AZ</State>
+                <Zip>85013</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.4">
+            <Name>Tempe Mission Palms</Name>
+            <Phone>480-894-1400</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>60</Number>
+                <Street>E. 5th St</Street>
+                <City>Tempe</City>
+                <State>AZ</State>
+                <Zip>85281</Zip>
+            </Address>
+        </Hotel>
+
+        <Hotel Rating="4.5">
+            <Name>The Global Ambassador</Name>
+            <Phone>480-800-2211</Phone>
+            <Address NearestAirport="Sky Harbor">
+                <Number>4360</Number>
+                <Street>E. Camelback Rd</Street>
+                <City>Phoenix</City>
+                <State>AZ</State>
+                <Zip>85018</Zip>
+            </Address>
+        </Hotel>
