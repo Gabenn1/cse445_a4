@@ -18,7 +18,7 @@
 
         <Hotel Rating="4.1">
             <Name>Sonesta Select</Name>
-            <Address NearestAirport="Sky Harbor"
+            <Address NearestAirport="Sky Harbor">
                 <Number>601</Number>
                 <Street>S. Ash Ave</Street>
                 <City>Tempe</City>
